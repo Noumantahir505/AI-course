@@ -1,1 +1,1 @@
-# smtp-ai-b03
+# AI and data science Course Syllabus new files/modules willl be uploaded soon.
