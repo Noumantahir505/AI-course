@@ -1,1 +1,1 @@
-# AI-course
+# smtp-ai-b03
